@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'JetBrains Mono';
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #121212;
+    font-family: JetBrains Mono;
+    color: azure;
+    
+}
+#home {
+    color: azure;
+    background-color: #121212;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4em;
+    background-position: center;
+    background-size: cover;
+}
+#aboutMe {
+    width: 100vw;
+    background-color: azure;
+    color: #121212;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4em;
+    background-position: center;
+    background-size: cover;
+}
+#projetcs {
+    width: 100vw;
+    color: azure;
+    background-color: #121212;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4em;
+    background-position: center;
+    background-size: cover;
+}
+#abilities {
+    width: 100vw;
+    color: #121212;
+    background-color: azure;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4em;
+    background-position: center;
+    background-size: cover;
+}
+
+#contact {
+    width: 100vw;
+    color: azure;
+    background-color: #121212;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4em;
+    background-position: center;
+    background-size: cover;
+}
