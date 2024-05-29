@@ -6,7 +6,6 @@
     font-family: 'JetBrains Mono';
     scroll-behavior: smooth;
 }
-
 body {
     background-color: #121212;
     font-family: JetBrains Mono;
@@ -14,8 +13,6 @@ body {
     
 }
 #home {
-    color: azure;
-    background-color: #121212;
     width: 100vw;
     min-height: 100vh;
     display: flex;
@@ -39,8 +36,6 @@ body {
 }
 #projetcs {
     width: 100vw;
-    color: azure;
-    background-color: #121212;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -64,8 +59,6 @@ body {
 
 #contact {
     width: 100vw;
-    color: azure;
-    background-color: #121212;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
